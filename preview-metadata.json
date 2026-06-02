@@ -1,8 +1,8 @@
 {
   "source_repository": "vikramsh2002/My-Portfolio",
-  "source_ref": "portfolio-sync/26802292209-1",
-  "source_sha": "81d913639fa2e0da6e962d2d78074c7ef9000322",
+  "source_ref": "fix-stable-project-tags",
+  "source_sha": "e43d0d2426af2ae7c972d6d2f89db85916b0bde9",
   "preview_base": "/My-Portfolio-Preview/",
   "preview_url": "https://vikramsh2002.github.io/My-Portfolio-Preview/",
-  "deployed_at": "2026-06-02T06:20:56Z"
+  "deployed_at": "2026-06-02T17:21:37Z"
 }
